@@ -1,0 +1,22 @@
+<persons>
+    <person>
+        <firstName>
+            Moshe
+        </firstName>
+        <lastName>Smith</lastName>
+
+        <age minimum="18">
+            11
+        </age>
+    </person>
+    <person>
+        <firstName>
+            Moshe
+        </firstName>
+        <lastName>Smith</lastName>
+
+        <age>
+            20
+        </age>
+    </person>
+</persons>
